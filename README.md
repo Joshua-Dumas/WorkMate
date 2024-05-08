@@ -1,1 +1,1 @@
-"# WorkMate" 
+WorkMate serves as an uncomplicated employee directory, uses Firebase for authentication and employee database management. Authorized users can effortlessly search for fellow employees within their company based on their job titles.
